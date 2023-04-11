@@ -36,7 +36,9 @@
         padding-top: 10px;
     }
     .title {
+        font-family: 'Lobster', cursive;
         margin-top: 100px;
+        margin-bottom: 30px;
         color: azure;
     }
     .fact-content {
